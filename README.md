@@ -6,8 +6,8 @@
 
 <div>
   <a href="https://github.com/MateusMiri"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MateusMiri&count_private=true&show_icons=true&include_all_commits=true&theme=dark"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusMiri&layout=compact&langs_count=4&theme=dark"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=MateusMiri&count_private=true&show_icons=true&include_all_commits=true&theme=dark"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusMiri&layout=compact&langs_count=4&theme=dark"/>
   <div/>
   
 ### Tech Stack
